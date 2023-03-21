@@ -20,8 +20,6 @@ hackintosh: EFI boot files for some of my laptops
 - ⌨ Fun fact: I use a programmer dvorak keyboard
 - 💻 Most used line of code in terminal: `vim .` and `ng serve`
 
-I've mainly been building with Angular and Material-UI theme, and I've got a list of further project to build out once I get there.
-
 ### Top Technologies
 
 [![Angular Badge](https://img.shields.io/badge/-Angular-D20f0f?style=for-the-badge&labelColor=black&logo=angular&logoColor=D20f0f)](#)
