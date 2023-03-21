@@ -15,7 +15,7 @@ hackintosh: EFI boot files for some of my laptops
 - 📬 Reach out!
 
 [![Github Badge](https://img.shields.io/twitter/url?color=ebedd5&label=25andros&logo=github&logoColor=ebedd5&style=for-the-badge&url=https://github.com/25andros)](https://github.com/25andros)
-[![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=Zack Gibbs&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https://www.linkedin.com/in/zack-gibbs-11914493/)](https://www.linkedin.com/in/zack-gibbs-11914493/)
+[![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=ZackGibbs&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https://www.linkedin.com/in/zack-gibbs-11914493/)](https://www.linkedin.com/in/zack-gibbs-11914493/)
 
 - ⌨ Fun fact: I use a programmer dvorak keyboard
 - 💻 Most used line of code in terminal: `vim .` and `ng serve`
