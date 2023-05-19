@@ -2,9 +2,11 @@
 
 Welcome to my repo page; this is a collection of some of the projects I've been working on recently.
 
+### Website: [www.gibbs.ltd](https://gibbs.ltd/projects)
+
 Repos:
 
-angular: single web pages built with angular and material-UI
+angular: single web pages built with angular and material-UI; source code for [website](https://gibbs.ltd/projects)
 
 frontEnd: single web pages built with basic html, css, js
 
